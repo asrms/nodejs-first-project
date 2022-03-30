@@ -10,5 +10,8 @@
     "lutech"
   ],
   "author": "asrms",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/asrms/nodejs-first-project"
+  }
 }
